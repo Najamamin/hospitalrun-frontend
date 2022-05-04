@@ -49,8 +49,8 @@ const Navbar = () => {
     pageMap.newPatient,
     pageMap.newAppointment,
     pageMap.newMedication,
-    pageMap.newLab,
-    pageMap.newImaging,
+    pageMap.newConsent,
+    pageMap.newService,
     pageMap.newIncident,
   ]
 
